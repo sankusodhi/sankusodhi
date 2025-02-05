@@ -3,9 +3,10 @@
 ## 🚀 About Me
 I am a passionate and diligent **Software Engineer** with expertise in:
 - **Frontend Development**: React, Next.js, Angular, Tailwind CSS, Bootstrap  
-- **Backend Development**: Frappe Framework, ERPNext  
-- **Programming Languages**: JavaScript, C, C++  
-- **Tools & Technologies**: Git, Docker, WordPress, Digilocker  
+- **Backend Development**: Frappe Framework, ERPNext,MySql,Mariadb,Mongodb  
+- **Programming Languages**: JavaScript, C, C++ ,Python
+- **Tools & Technologies**: Google Docs, MSword, Excel, Power point, Canva, Wordpress, Frappe UI,Print Designer, Frappe Builder.
+- Wordpress Plugins:-Elementor, Contact From 7, Classic Editor, WP Mail SMPT
 
 Currently, I am learning **Vue.js** and advancing my skills at **Navgurukul, Dantewada** while pursuing a **B.Tech in Agricultural Engineering** at **Assam University, Silchar**.
 
@@ -23,7 +24,8 @@ Currently, I am learning **Vue.js** and advancing my skills at **Navgurukul, Dan
 ## 📫 How to Reach Me  
 - **GitHub**: [github.com/sankusodhi](https://https://github.com/sankusodhi)  
 - **LinkedIn**: [linkedin.com/in/SankuRamSodhi](linkedin.com/in/sanku-ram-sodhi-331191291)  
-- **Email**: [sankuramsodhi23@navgurukul.org](mailto:your-sankuramsodhi23@navgurukul.org)  
+- **Email**: [sankuramsodhi23@navgurukul.org](mailto:your-sankuramsodhi23@navgurukul.org)
+- **Resume**: .[https://drive.google.com/file/d/1WMNqIpQjsGtaKPHTJ10xEus_R_g4s22h/view?usp=sharing]
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SankuRamSodhi&theme=radical)  
