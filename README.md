@@ -26,7 +26,7 @@ Currently, I am learning **Vue.js** and advancing my skills at **Navgurukul, Dan
 - **Email**: [sankuramsodhi23@navgurukul.org](mailto:your-sankuramsodhi23@navgurukul.org)  
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SankuRamSodhi&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SankuRamSodhi&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankuRamSodhi&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SankuRamSodhi&layout=compact&theme=radical)  
 
