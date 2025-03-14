@@ -25,7 +25,7 @@ Currently, I am learning **Vue.js** and advancing my skills at **Navgurukul, Dan
 - **GitHub**: [github.com/sankusodhi](https://https://github.com/sankusodhi)  
 - **LinkedIn**: [linkedin.com/in/SankuRamSodhi](linkedin.com/in/sanku-ram-sodhi-331191291)  
 - **Email**: [sankuramsodhi23@navgurukul.org](mailto:your-sankuramsodhi23@navgurukul.org)
-- **Resume**: .[https://drive.google.com/file/d/1WMNqIpQjsGtaKPHTJ10xEus_R_g4s22h/view?usp=sharing]
+- **Resume**: .[https://drive.google.com/file/d/1DYciS2-x4KQiGYmK9Z-WYyf3zPB3Q-YC/view?usp=sharing]
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SankuRamSodhi&theme=radical)  
